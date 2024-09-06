@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kemblegiv.github.io/sitemap.html.gz
+Sitemap: https://kemblegiv.github.io/app/sitemap.html.gz
+Sitemap: https://kemblegiv.github.io/assets/sitemap.html.gz
+Sitemap: https://kemblegiv.github.io/css/sitemap.html.gz
+Sitemap: https://kemblegiv.github.io/includes/sitemap.html.gz
+Sitemap: https://kemblegiv.github.io/item/sitemap.html.gz
+Sitemap: https://kemblegiv.github.io/src/sitemap.html.gz
